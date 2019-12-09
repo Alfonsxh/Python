@@ -106,7 +106,7 @@ QDarkStyle==2.6.5
 qtconsole==4.4.3
 queuelib==1.5.0
 redis==3.0.1
-requests==2.18.4
+requests==2.20.0
 schema==0.7.0
 Scrapy==1.5.1
 Send2Trash==1.5.0
