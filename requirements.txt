@@ -94,7 +94,7 @@ PyQt5-sip==4.19.13
 PySocks==1.6.8
 pytest==5.3.0
 python-dateutil==2.7.5
-python-engineio==2.2.0
+python-engineio==3.8.2.post1
 python-linstor==1.0.5
 python-nmap==0.6.1
 python-socketio==2.0.0
