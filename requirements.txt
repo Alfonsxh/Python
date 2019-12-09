@@ -82,7 +82,7 @@ pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pycparser==2.18
 PyCRC==1.21
-pycryptodome==3.6.1
+pycryptodome==3.6.6
 PyDispatcher==2.0.5
 Pygments==2.2.0
 PyHamcrest==1.9.0
