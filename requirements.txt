@@ -11,7 +11,7 @@ chardet==3.0.4
 configparser==4.0.2
 contextlib2==0.6.0.post1
 coverage==4.5.4
-cryptography==2.8
+cryptography==3.2
 enum34==1.1.6
 funcsigs==1.0.2
 futures==3.3.0
