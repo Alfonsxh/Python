@@ -1,5 +1,5 @@
 amqp==2.5.2
-ansible==2.9.2
+ansible==2.10.0
 APScheduler==3.6.3
 bcrypt==3.1.7
 billiard==3.6.2.0
